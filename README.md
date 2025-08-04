@@ -1,7 +1,8 @@
 🔐 Login and Registration System (C++):
 A simple yet secure user authentication system built in C++, supporting user registration and login functionality. Credentials are stored securely using SHA-256 hashing.
 
-📌 Features
+📌 Features:
+
 ✅ Register with username and password
 
 ✅ Prevent duplicate usernames
